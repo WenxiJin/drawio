@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T21:12:12.312Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.58 Safari/537.36" etag="NdMzfwdMomfuA-6Q7QI2" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-20T21:22:50.785Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.58 Safari/537.36" etag="J9VzUnMa3awBuCdO_wDD" version="14.4.9" type="github">
   <diagram id="Bqiee5ZmtiU1pbYOoO7F" name="Page-1">
     <mxGraphModel dx="763" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O1Ew0qbhxfNDliVo-ExG-32" value="Database" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=0;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=14;align=left;" vertex="1" parent="1">
-          <mxGeometry x="770" y="250" width="70" height="60" as="geometry" />
+          <mxGeometry x="770" y="250" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O1Ew0qbhxfNDliVo-ExG-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=1;endArrow=block;endFill=1;strokeColor=#A8201A;fillColor=#FAE5C7;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="O1Ew0qbhxfNDliVo-ExG-13">
           <mxGeometry relative="1" as="geometry">
@@ -106,6 +106,15 @@
         </mxCell>
         <mxCell id="O1Ew0qbhxfNDliVo-ExG-48" value="JAVA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1000" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O1Ew0qbhxfNDliVo-ExG-51" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://previews.123rf.com/images/sabuhinovruzov/sabuhinovruzov1904/sabuhinovruzov190402075/122757067-cpu-line-icon-processor-illustration-isolated-on-white-chip-outline-style-design-designed-for-web-an.jpg;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="112.5" width="32.5" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="O1Ew0qbhxfNDliVo-ExG-52" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.iconscout.com/icon/premium/png-256-thumb/ethernet-1820398-1544912.png;" vertex="1" parent="1">
+          <mxGeometry x="540" y="134" width="36" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="O1Ew0qbhxfNDliVo-ExG-54" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn4.iconfinder.com/data/icons/computers-3/32/574-01-512.png;" vertex="1" parent="1">
+          <mxGeometry x="830" y="280" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
